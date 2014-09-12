@@ -1,4 +1,4 @@
 AUR
 ===
 
-My archlinux AUR package
+My archlinux AUR packages
